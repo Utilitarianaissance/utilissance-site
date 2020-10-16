@@ -1,0 +1,23 @@
+{
+  "name": "utilissance-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwindcss": "npx tailwindcss build tailwind-imports.css -o tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utilitarianaissance/utilissance-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Utilitarianaissance/utilissance-site/issues"
+  },
+  "homepage": "https://github.com/Utilitarianaissance/utilissance-site#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.2"
+  }
+}
